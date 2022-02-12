@@ -1,2 +1,6 @@
-# html-odevi
-İlk Web Sayfamı oluşturdum
+# HTML ÖDEVİ
+İlk Web Sayfamı oluşturdum.
+
+![resim](../img/first-webpage.jpg)
+
+[LICENSE](LICENSE)
